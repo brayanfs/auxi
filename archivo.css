@@ -1,0 +1,25 @@
+    html, body {
+        height: 100%;
+         }
+      
+      body {
+        background-image: url(tms.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-left: 7rem;
+     }
+     table {
+        color: rgb(229, 229, 235);
+      }
+      table {
+        float: right;
+      }
+      p{
+        color: aliceblue;
+        margin-left: 7rem;
+        margin-right: 37rem ;
+      }
+      #logo1{
+        margin-left: 7rem;
+      }
